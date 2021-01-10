@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="ISBD-ER">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">A Corpus of English Dialogues 1560-1760 (CED)</title>
+            <author>Kytö, Merja</author>
+            <author>Culpeper, Jonathan</author>
+            <funder>Swedish Research Council / Vetenskapsrådet</funder>
+            <funder>Arts and Humanities Research Council (AHRC)</funder>
+            <funder>British Academy</funder>
+            <funder>Department of English, Uppsala University</funder>
+            <respStmt>
+               <resp>Research associate</resp>
+               <name>Walker, Terry</name>
+               <name>Archer, Dawn</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition/>
+         </editionStmt>
+         <extent>
+            <seg type="designation">CollectionText</seg>
+            <seg type="size">5 files : ca. 7.4 MB</seg>
+         </extent>
+         <publicationStmt>
+            <authority>deposited by<name type="person">Kytö, Merja</name>
+               <name type="institution">Department of English, Uppsala University</name>
+               <name type="place">Uppsala</name>
+               <address>[Depositor details removed]</address>   
+               <date>2006-03-10</date>
+            </authority>
+            <distributor>
+               <orgName type="OTA">Oxford Text Archive</orgName>
+               <placeName>Oxford</placeName>
+               <address>
+                  <orgName type="OTA">Oxford Text Archive</orgName>
+                  <orgName type="Bodleian">Bodleian Libraries</orgName>
+                  <addrLine>Broad St</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX1 3BG</addrLine>
+               </address>
+               <email>ota@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="OTA">2507</idno>
+            <idno type="ota">2507</idno>
+	           <idno type="PURL">http://purl.ox.ac.uk/ota/2507</idno>
+            <legalStatus>No information on copyright holders in relation to this resource has been supplied to the AHDS.
+        </legalStatus>
+            <availability n="OTA-new" status="restricted" rend="visible">
+               <p>Available for non-commercial use on condition that this header is included in its entirety with any copy distributed. Registration or request via our order form is required.</p>
+            </availability>
+            <date>2006-05</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="summary">
+          The Corpus of English Dialogues comprises dialogues from 1560 to 1760. Dialogues are of prime interest to the study of the development of English 
+          because interactive face-to-face communication has been found to play an important role in language change. To give a picture of spoken interaction 
+          of the past, as mediated through written records, the CED contains 1.2 million million words drawn from both texts which include constructed 
+          dialogue and those which purportedly record language from authentic speech situations; of the 1.2 million words, some 870,000 words comprise 
+          direct speech.
+          There are five text-types in the CED. The text-types representative of constructed dialogue are drama comedy, 
+          didactic works (language manuals and other handbooks) and fiction; the text-types representative of authentic dialogue are trial proceedings and 
+          witness depositions. In addition, a small group of miscellaneous dialogic texts is included in the collection.
+          The corpus texts have been coded to indicate e.g. foreign language, narration, compilers' comments, editorial comments and emendations, and font changes. Each corpus text is introduced by a number of parameters giving information on the period in question, text-type, name of the text, name of the author (when applicable), and contemporaneity of the source text and the printed version used.
+          The CED comprises 177 text files and is distributed in plain text files in two versions: with no annotations and with XML markup.
+          A guide (a .pdf file) to the corpus accompanies the corpus files and is also available in hard copy.         
+</note>
+         </notesStmt>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The Corpus of English dialogues 1560-1760 forms part of the research project "Exploring spoken interaction of the Early Modern English period". Historical corpora are important tools for the study of the language of teh past: they offer relatively easy access to large amounts of data. The main objective of the project is to enable and cary out empirical linguistic research on substantial amounts of data drawn from such corpora, notably the CED, but also other sources of data such as the Helsinki Corpus of English Texts. The topics addressed pertain to research within such areas as variationist studies, historical pragmatics, and the study of speech presentation. Among the issues dealt with have been text structure (e.g. questions in courtroom texts, the cohesive usages of 'and', lexical bundles, fragmentation through structures like lexical repetitions), pragmatic/discourse markers (e.g. primary interjections and hesitators, i.e. items discussed under the umbrella term 'pragmatic noise'), the vocative, speech styles (e.g. those relating to sex and social status), and second-person singular pronoun usage ('you' vs 'thou').
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>XML</p>
+            <p>Plain text</p>
+         </editorialDecl>
+         <refsDecl>
+            <p/>
+         </refsDecl>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>1560-1760</date>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#OTASH">
+               <term type="genre">Linguistic corpora</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Linguistics</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">English language--Early modern, 1500-1700</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Dialogue</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords scheme="http://www.ota.ox.ac.uk/processing">
+               <term type="class">corpus</term>
+               <term type="license">Restricted</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03-19</date>
+            <label>cataloguer</label>
+            <name>Wynne, Martin</name>TEIXML P5 header composed
+      </change>
+         <change>
+            <date>2007-03-19</date>
+            <label>cataloguer</label>
+            <name>Simpson, Greg</name>Legal status element added
+      </change>
+         <change>
+            <date>2006-04-26</date>
+            <label>cataloguer</label>
+            <name>Simpson, Greg</name>TEIXML header composed
+      </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="OTA-filemap" rend="visible" n="unrestricted">
+            <ab type="dir">
+               <seg type="part">1</seg>
+               <ptr type="resourcePart" target="README.TXT"/>
+            </ab>
+            <ab type="dir">
+               <seg type="part">2</seg>
+               <ptr type="resourcePart" target="CEDGuide.pdf"/>
+            </ab>
+            <ab type="dir">
+               <seg type="part">3</seg>
+               <ptr type="resourcePart" target="CEDPlain.ZIP"/>
+            </ab>
+            <ab type="dir">
+               <seg type="part">4</seg>
+               <ptr type="resourcePart" target="CEDXML.ZIP"/>
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>

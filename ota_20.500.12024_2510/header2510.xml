@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader type="ISBD-ER">
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Parsed Corpus of Early English Correspondence (PCEEC)</title>
+            <author>Nevalainen, Terttu</author>
+            <author>Raumolin-Brunberg, Helena</author>
+            <author>Keränen, Jukka</author>
+            <author>Nevala, Minna</author>
+            <author>Nurmi, Arja</author>
+            <author>Palander-Collin, Minna</author>
+            <author>Taylor, Ann</author>
+            <author>Pintzuk, Susan</author>
+            <author>Warner, Anthony</author>
+            <funder>Academy of Finland, 1993-1995 (Sociolinguistics and Language History project)</funder>
+            <funder>University of Helsinki, 1996-1997 (Sociolinguistics and Language History project)</funder>
+            <funder>Academy of Finland, 2000-2005 (Centre of Excellence programme, Research Unit for Variation and Change in English)</funder>
+            <funder>Arts and Humanities Research Board (AHRB) (B/RE/AN5907/APN15474)</funder>
+         </titleStmt>
+         <extent>
+            <seg type="designation">CollectionText</seg>
+            <seg type="size">425 files : ca. 214 MB</seg>
+         </extent>
+         <publicationStmt>
+            <authority>deposited by<name type="person">Nurmi, Arja</name>
+               <name type="institution">Research Unit for Variation, Contacts and Change in English</name>
+               <name type="place">Helsinki</name>
+               <address>[Depositor details removed]</address>   
+               <date>2006-05-05</date>
+            </authority>
+            <distributor>
+               <orgName type="OTA">Oxford Text Archive</orgName>
+               <placeName>Oxford</placeName>
+               <address>
+                  <orgName type="OTA">Oxford Text Archive</orgName>
+                  <orgName type="Bodleian">Bodleian Libraries</orgName>
+                  <addrLine>Broad St</addrLine>
+                  <addrLine>Oxford</addrLine>
+                  <addrLine>OX1 3BG</addrLine>
+               </address>
+               <email>ota@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="OTA">2510</idno>
+            <idno type="ota">2510</idno>
+	           <idno type="PURL">http://purl.ox.ac.uk/ota/2510</idno>
+            <availability n="OTA-new" status="restricted" rend="visible">
+               <p>Use of this resource is restricted in some manner.  Usually this
+  means that it is available for non-commercial use only with prior
+  permission of the depositor and on condition that this header is
+  included in its entirety with any copy distributed.</p>
+            </availability>
+            <date>2006-05</date>
+         </publicationStmt>
+         <notesStmt>
+            <note type="summary">
+               <p>The Parsed Corpus of Early English Correspondence contains 4970 personal letters by 666 writers, altogether 2.2 million words of running text from the years 1410?-1681. The letters have been selected to be as socially representative of the literate social ranks of the time as possible.</p>
+               <p>In addition to the flat text version, the corpus has also been provided with part-of-speech tagging and parsing. These two versions contain the same texts as the flat text version, as well as the additional linguistic coding.</p>
+               <p>The corpus is also provided with two manuals, one outlining the corpus, the other explaining the annotation.</p>
+            </note>
+            <note>Nevalainen, Terttu and Helena Raumolin-Brunberg. 2003. Historical sociolinguistics. London: Longman</note>
+            <note>Nevalainen, Terttu and Helena Raumolin-Brunberg (eds). 1996. Sociolinguistics and Language History. Studies Based on The Corpus of Early English Correspondence. (Language and Computers 15). Amsterdam and Atlanta: Rodopi</note>
+            <note type="nb">The Corpus of Early English Correspondence Sampler (CEECS, identification number 2461), published in 1998, and deposited in the University of Oxford Text Archive in 2003, is a flat text version of some of the texts included in PCEEC. The full Corpus of Early English Correspondence (CEEC) was completed in 1998, and contains texts which for copyright reasons are not included in either CEECS or PCEEC, but are available in digitised form in inhouse use of the CEEC project team. The CEEC is being supplemented by an extension (CEECE, 1682-1800) and a supplement (1403-1681); these two corpora are still being compiled and in inhouse use in Helsinki.</note>
+         </notesStmt>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>The Parsed Corpus of Early English Correspondence was initially compiled as a tool for research in correlational historical sociolinguistics, and it was compiled at the Department of English, University of Helsinki, by the CEEC project team lead by Terttu Nevalainen and Helena Raumolin-Brunberg in 1993-1998. In collaboration with Ann Taylor, Susan Pintzuk and Anthony Warner at the University of York, part-of-speech tagging and parsing were added to make the corpus a more versatile tool for other types of historical linguistics as well.</p>
+            <p>Corpus compilation (including computerisation) was carried out 1993-1998, and linguistic annotation 2001-2006.</p>
+         </projectDesc>
+         <editorialDecl>
+            <p>Plain text</p>
+         </editorialDecl>
+         <classDecl>
+            <taxonomy xml:id="OTASH">
+               <bibl>University of Oxford Text Archive Subject Headings</bibl>
+            </taxonomy>
+            <taxonomy xml:id="LCSH">
+               <bibl>Library of Congress Subject Headings</bibl>
+            </taxonomy>
+         </classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+            <date>1410-1695</date>
+         </creation>
+         <langUsage>
+            <language ident="eng">English</language>
+            <language ident="enm">English, Middle (1100-1500)</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="#OTASH">
+               <term type="genre">Linguistic corpora</term>
+            </keywords>
+            <keywords scheme="#OTASH">
+               <term type="resource_type">Corpus</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Linguistics</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">Letter writing</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">English language--Middle English, 1100-1500</term>
+            </keywords>
+            <keywords scheme="#LCSH">
+               <term type="genre">English language--Early modern, 1500-1700</term>
+            </keywords>
+         </textClass>
+         <textClass>
+            <keywords scheme="http://www.ota.ox.ac.uk/processing">
+               <term type="class">corpus</term>
+               <term type="license">Restricted</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2006-05-22</date>
+            <label>cataloguer</label>
+            <name>Simpson, Greg</name>TEIXML header composed
+      </change>
+      </revisionDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <div type="OTA-filemap" rend="visible" n="restricted">
+            <ab type="dir">
+               <ptr type="resourcePart" target="PCEEC"/>
+            </ab>
+         </div>
+      </body>
+  </text>
+</TEI>
